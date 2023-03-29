@@ -1,0 +1,15 @@
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\bin\Debug\net7.0\dotnet-wasmtime.exe
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\bin\Debug\net7.0\dotnet-wasmtime.deps.json
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\bin\Debug\net7.0\dotnet-wasmtime.runtimeconfig.json
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\bin\Debug\net7.0\dotnet-wasmtime.dll
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\bin\Debug\net7.0\dotnet-wasmtime.pdb
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\obj\Debug\net7.0\dotnet-wasmtime.csproj.AssemblyReference.cache
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\obj\Debug\net7.0\dotnet-wasmtime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\obj\Debug\net7.0\dotnet-wasmtime.AssemblyInfoInputs.cache
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\obj\Debug\net7.0\dotnet-wasmtime.AssemblyInfo.cs
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\obj\Debug\net7.0\dotnet-wasmtime.csproj.CoreCompileInputs.cache
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\obj\Debug\net7.0\dotnet-wasmtime.dll
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\obj\Debug\net7.0\refint\dotnet-wasmtime.dll
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\obj\Debug\net7.0\dotnet-wasmtime.pdb
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\obj\Debug\net7.0\dotnet-wasmtime.genruntimeconfig.cache
+C:\Users\daicakhoi96\wasm-demo\dotnet-wasmtime\obj\Debug\net7.0\ref\dotnet-wasmtime.dll
